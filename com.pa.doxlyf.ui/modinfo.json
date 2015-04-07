@@ -3,8 +3,8 @@
   "context": "client",
   "identifier": "com.pa.doxlyf.ui",
   "display_name": "Dox4Lyf Strategic Icons",
-  "build": "74525",
-  "date": "2014/11/12",
+  "build": "80155",
+  "date": "2015/04/06",
   "description": "Some fresh icons for nukes and giant dox.",
   "category": [
         "in-game",
@@ -12,7 +12,7 @@
     "Strategic-icons"
     ],
   "author": "KillerKiwiJuice",
-  "version": "1.0",
+  "version": "4",
   "signature": "not yet implemented",
   "forum": "https://forums.uberent.com/threads/rel-dox4lyf-mod.65833/",
   "icon": "http://i.imgur.com/QSearb8.png",
